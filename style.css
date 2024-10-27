@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+#numInp{
+    margin :auto;
+    margin-top: 30px;
+    background-color: white;
+    border: 5px solid black;
+    border-radius: 5px;
+    width: 375px;
+    height: 3em;
+    color: black;
+    font-size: 2rem;
+}
+.myCal{
+    border: none;
+    height: 100%;
+    width: 500px;
+    border-radius: 10px;
+    background-color: gray;
+    margin: auto;
+    text-align: center;
+}
+.myCal button:hover{
+    background-color: rgb(173, 169, 169);
+    color: rgb(73, 68, 64);
+    cursor: pointer;
+}
+.char{
+    background-color: black;
+    font: 2em sans-serif;
+    color:rgb(216, 161, 23);
+    width: 75px;
+    height: 75px;
+    margin: 2%;
+    border-radius: 70px;
+    border: none;
+}
+.num{
+    background-color: black;
+    color: white;
+    font-size: xx-large;
+    margin: 2%;
+    width: 75px;
+    height: 75px;
+    border-radius: 70px;
+    border: none;
+}
+#myH1{
+    text-align: center;
+    font: 3em sans;
+    font-weight: bolder;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+}
